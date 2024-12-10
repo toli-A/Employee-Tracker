@@ -32,7 +32,8 @@ Once installed, cd into the database file and login to postgres by typing in psq
 
 ## Tests
 
-see video
+See Drive Link
+[Video Provided Here](https://drive.google.com/drive/folders/123gIr9uU_pKJ3h78L1twvvGPNgE55m0c?dmr=1&ec=wgc-drive-hero-goto)
 
 ## Questions
 
